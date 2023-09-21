@@ -1,6 +1,6 @@
 CS - MU 🥰💻
-ALX - student 😍😍
-full-stack engineering 🤓🤓👀💻
+backend developer using php❤️❤️
+
 
 <!---
 ABDELAZIZEZZT/ABDELAZIZEZZT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
