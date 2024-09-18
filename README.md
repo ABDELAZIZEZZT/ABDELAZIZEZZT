@@ -24,8 +24,12 @@
 
 ### Tech Stack 🚀
 <p style="text-align: left; font-size: 1em;">
+   <a href="https://cplusplus.com/" target="_blank">
+     <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/>
+    </a>
     <a href="https://cplusplus.com/" target="_blank">
      <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="40" height="40"/>
+      
     </a>
    <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="40" height="40"/>
