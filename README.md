@@ -85,6 +85,5 @@
 ---
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=netninjaengineer&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ABDELAZIZEZZT&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
