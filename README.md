@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&display=swap" rel="stylesheet">
 
 <h1 style="font-family: 'Barlow', sans-serif; font-size: 2.5em; text-align: left; color: #333;">Hi 👋, I am Abdelaziz Ezzat</h1>
-<h3 style="font-family: 'Barlow', sans-serif; font-size: 2em; text-align: left; color: #555;">I'm a Backend php-Laravel Tried to Be Full Stack Developer</h3>
+<h3 style="font-family: 'Barlow', sans-serif; font-size: 2em; text-align: left; color: #555;">I'm a Backend php-Laravel Developer</h3>
 
 <p style="font-family: 'Barlow', sans-serif; text-align: left; line-height: 1.6; color: #333; font-size: 1em;">
   🌍 <strong>I'm From Egypt</strong> 🇪🇬 <br>
@@ -47,7 +47,7 @@
   <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
-  
+
   
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
