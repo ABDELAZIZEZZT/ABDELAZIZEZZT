@@ -8,7 +8,7 @@
   🌍 <strong>I'm From Egypt</strong> 🇪🇬 <br>
   🌱 <strong>Currently learning</strong> <em>Laravel</em> <br>
   🖥️ All of my projects are available at <a href="https://github.com/ABDELAZIZEZZT" style="color: #1e90ff; text-decoration: none;">My GitHub</a> <br>
-  📫 Reach me at <a href="mailto:abdelaziznassar169@gmail.com" style="color: #1e90ff; text-decoration: none;"><strong>zezo.nassar444@gmail.com</strong></a>
+  📫 Reach me at <a href="mailto:abdelaziznassar169@gmail.com" style="color: #1e90ff; text-decoration: none;"><strong>abdelaziznassar169@gmail.com</strong></a>
 </p>
 
 ---
